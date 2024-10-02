@@ -46,7 +46,7 @@ To set up the project, follow these steps:
 
 To run the tests, use the following command:
 ```bash
-npm test -- --udid YOUR_UDID --tag "@yourTag"
+npm test -- --udid YOUR_UDID --tags '@yourTag'
 ```
 - Replace `YOUR_UDID` with the UDID of your device (this is **mandatory**).
 - Replace `@yourTag` with the specific tag you want to run (e.g., `@positive` or `@negative`). This parameter is **optional**.
