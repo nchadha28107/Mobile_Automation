@@ -8,7 +8,7 @@ This project automates the login functionality of a mobile application using App
 2. [Running Tests](#running-tests)
 3. [Generating Reports](#generating-reports)
 4. [Project Structure](#project-structure)
-5. [Future Scope](#future-scope)
+5. [Future Enhancements](#future-enhancements)
 6. [Execution Recording](#execution-recording)
 
 ## Installation
@@ -17,7 +17,7 @@ To set up the project, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/mobile-automation.git
+   git clone https://github.com/nchadha28107/Mobile_Automation.git
    cd mobile-automation
    ```
 
