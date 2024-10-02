@@ -18,7 +18,7 @@ To set up the project, follow these steps:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/nchadha28107/Mobile_Automation.git
-   cd mobile-automation
+   cd Mobile_Automation
    ```
 
 2. **Install dependencies**:
